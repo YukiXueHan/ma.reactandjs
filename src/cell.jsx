@@ -1,5 +1,3 @@
-// Cell.js
-
 import React, { useContext } from 'react';
 import { GridContext } from './grid';
 

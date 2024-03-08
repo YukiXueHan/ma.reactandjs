@@ -1,5 +1,3 @@
-// Grid.js
-
 import React, { useState, createContext } from 'react';
 import Cell from './cell';
 
